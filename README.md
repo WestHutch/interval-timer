@@ -3,7 +3,7 @@
 > A simple interval timer website that plays a sound every minute, and a different sound every 5 minutes
 
 ![Built With](https://img.shields.io/badge/built%20with-HTML%2FCSS%2FJS-informational)
-![License](https://img.shields.io/badge/license-private-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Why
 
