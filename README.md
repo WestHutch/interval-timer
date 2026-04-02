@@ -15,6 +15,18 @@ Keeping track of time is hard, especially when you can't constantly look at a cl
   * Plays a different sound every 5 minutes
   * Stopwatch for tracking elapsed time
 
+## Screenshots
+
+### 🖥️ Desktop
+<p align="center">
+  <img src="./screenshots/desktop.png" alt="Desktop Screenshot" width="660px" />
+</p>
+
+### 📱 Mobile
+<p align="center">
+  <img src="./screenshots/mobile.png" alt="Mobile Screenshot" height="660px" />
+</p>
+
 ## Usage
 
   1. Open `index.html` in your browser
